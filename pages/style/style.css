@@ -1,0 +1,30 @@
+html {
+    font-family: "Comic Sans MS";
+    color: rgb(12, 12, 12);
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+  body{
+      background-image: url("/img/westcott_d0001_43x43_vy_gy_3_5_x_3_5_distressed_1475701900000_1285550.jpg")
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .navigation {
+    float: leftS;
+    text-transform: uppercase;
+    
+    }
